@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BOSS_ALIEN_00.aternos.me:51142",
+    "ip": "BOSS_ALIEN_00.aternos.me",
     "port": 51142,
     "version": "",
     "try-creative": false
